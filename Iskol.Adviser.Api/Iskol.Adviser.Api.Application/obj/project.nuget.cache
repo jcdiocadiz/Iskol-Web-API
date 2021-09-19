@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rFLDJ0nrPfgRWeCUT7+tUe/weLX0xhxdpCnSPzGqqRk/RX2GSvMvGFH7OdVr5CvnuoCWUQ7McFvVaQjhnE5svA==",
+  "dgSpecHash": "u0FK+bMiSxv3Sq3yVgjuzw808c81e9X5dkxP7+NGROqpAD18WHIcOvWmdymtgC6fj+WZdLgLrefFkPMVDbmqPg==",
   "success": true,
   "projectFilePath": "/Users/johncarlodiocadiz/Desktop/Iskol/ISKOLFINAL/Iskol-Web-API/Iskol-Web-API/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/Iskol.Adviser.Api.Application.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore/3.1.7/microsoft.entityframeworkcore.3.1.7.nupkg.sha512",
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.7/microsoft.entityframeworkcore.abstractions.3.1.7.nupkg.sha512",
-    "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.7/microsoft.entityframeworkcore.analyzers.3.1.7.nupkg.sha512",
+    "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.17/microsoft.entityframeworkcore.analyzers.3.1.17.nupkg.sha512",
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore.inmemory/3.1.7/microsoft.entityframeworkcore.inmemory.3.1.7.nupkg.sha512",
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.7/microsoft.extensions.caching.abstractions.3.1.7.nupkg.sha512",
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.extensions.caching.memory/3.1.7/microsoft.extensions.caching.memory.3.1.7.nupkg.sha512",

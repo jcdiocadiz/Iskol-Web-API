@@ -15,6 +15,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.7" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="System.Text.Json" Version="4.7.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Analyzers" Version="3.1.17" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Iskol.Adviser.Api.Domain\Iskol.Adviser.Api.Domain.csproj" />
@@ -27,5 +28,8 @@
     <Folder Include="Features\Students\Commands\" />
     <Folder Include="Features\Students\Queries\" />
     <Folder Include="Features\Students\Queries\GetStudentById\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Microsoft.EntityFrameworkCore.Analyzers" />
   </ItemGroup>
 </Project>

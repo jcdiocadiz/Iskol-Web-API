@@ -17,6 +17,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="3.1.7" />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="3.1.7" />
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -24,4 +25,7 @@
     <ProjectReference Include="..\Iskol.Adviser.Api.Domain\Iskol.Adviser.Api.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="AutoMapper" />
+  </ItemGroup>
 </Project>

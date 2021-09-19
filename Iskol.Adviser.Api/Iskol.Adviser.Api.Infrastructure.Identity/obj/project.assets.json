@@ -224,7 +224,7 @@
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/3.1.7": {
+      "Microsoft.EntityFrameworkCore.Analyzers/3.1.17": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -1604,6 +1604,7 @@
           "Iskol.Adviser.Api.Domain": "1.1.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "8.1.0",
           "Microsoft.EntityFrameworkCore": "3.1.7",
+          "Microsoft.EntityFrameworkCore.Analyzers": "3.1.17",
           "Microsoft.EntityFrameworkCore.InMemory": "3.1.7",
           "Newtonsoft.Json": "12.0.3",
           "System.Text.Json": "4.7.2"
@@ -1998,17 +1999,17 @@
         "microsoft.entityframeworkcore.abstractions.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/3.1.7": {
-      "sha512": "zSh3QF/Kz8fdVgyStQ1HYUGFDRqFbUR1UBpfa8tUuB0OutYab9R4aYdjkD8i9w9P5VZyHXqQNglh2cQHBFLtjg==",
+    "Microsoft.EntityFrameworkCore.Analyzers/3.1.17": {
+      "sha512": "7D94SZqJ9GhU6stIya8Ou5LydeTGZYV4mE6Uv/sTVyLRztMxVi6BM6sZufFsby7Eo+60BDVPSy0DRqCnb9FSVg==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.analyzers/3.1.7",
+      "path": "microsoft.entityframeworkcore.analyzers/3.1.17",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "lib/netstandard2.0/_._",
-        "microsoft.entityframeworkcore.analyzers.3.1.7.nupkg.sha512",
+        "microsoft.entityframeworkcore.analyzers.3.1.17.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
