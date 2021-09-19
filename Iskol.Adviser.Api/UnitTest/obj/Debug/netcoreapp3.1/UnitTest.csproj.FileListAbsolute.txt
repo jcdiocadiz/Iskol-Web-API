@@ -1,0 +1,318 @@
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/UnitTest.deps.json
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/UnitTest.runtimeconfig.json
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/UnitTest.runtimeconfig.dev.json
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/UnitTest.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/UnitTest.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/FluentValidation.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/MediatR.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Moq.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Application.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Domain.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Infrastructure.Persistence.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Infrastructure.Persistence.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Application.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Domain.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.csprojAssemblyReference.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.AssemblyInfoInputs.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.AssemblyInfo.cs
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.csproj.CoreCompileInputs.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.csproj.CopyComplete
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.genruntimeconfig.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.csproj.AssemblyReference.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.AssemblyInfoInputs.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.AssemblyInfo.cs
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.csproj.CoreCompileInputs.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/UnitTest.deps.json
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/UnitTest.runtimeconfig.json
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/UnitTest.runtimeconfig.dev.json
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/UnitTest.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/UnitTest.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/FluentValidation.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/MediatR.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Moq.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Application.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Domain.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Infrastructure.Persistence.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Infrastructure.Persistence.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Application.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/bin/Debug/netcoreapp3.1/Iskol.Adviser.Api.Domain.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.csproj.CopyComplete
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.genruntimeconfig.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/ISKOLFINAL/Iskol-Web-API/Iskol-Web-API/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.csproj.AssemblyReference.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/ISKOLFINAL/Iskol-Web-API/Iskol-Web-API/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johncarlodiocadiz/Desktop/Iskol/ISKOLFINAL/Iskol-Web-API/Iskol-Web-API/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.AssemblyInfoInputs.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/ISKOLFINAL/Iskol-Web-API/Iskol-Web-API/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.AssemblyInfo.cs
+/Users/johncarlodiocadiz/Desktop/Iskol/ISKOLFINAL/Iskol-Web-API/Iskol-Web-API/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.csproj.CoreCompileInputs.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/ISKOLFINAL/Iskol-Web-API/Iskol-Web-API/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/ISKOLFINAL/Iskol-Web-API/Iskol-Web-API/Iskol.Adviser.Api/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.pdb

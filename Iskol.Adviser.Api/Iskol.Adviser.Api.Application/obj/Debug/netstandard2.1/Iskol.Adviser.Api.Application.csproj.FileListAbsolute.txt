@@ -1,0 +1,25 @@
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/bin/Debug/netstandard2.1/Iskol.Adviser.Api.Application.deps.json
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/bin/Debug/netstandard2.1/Iskol.Adviser.Api.Application.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/bin/Debug/netstandard2.1/Iskol.Adviser.Api.Application.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/bin/Debug/netstandard2.1/Iskol.Adviser.Api.Domain.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/bin/Debug/netstandard2.1/Iskol.Adviser.Api.Domain.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.csprojAssemblyReference.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.AssemblyInfoInputs.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.AssemblyInfo.cs
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.csproj.CoreCompileInputs.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.csproj.CopyComplete
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/bin/Debug/netstandard2.1/Iskol.Adviser.Api.Application.deps.json
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/bin/Debug/netstandard2.1/Iskol.Adviser.Api.Application.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/bin/Debug/netstandard2.1/Iskol.Adviser.Api.Application.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/bin/Debug/netstandard2.1/Iskol.Adviser.Api.Domain.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/bin/Debug/netstandard2.1/Iskol.Adviser.Api.Domain.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.csproj.AssemblyReference.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.AssemblyInfoInputs.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.AssemblyInfo.cs
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.csproj.CoreCompileInputs.cache
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.csproj.CopyComplete
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.dll
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.pdb
+/Users/johncarlodiocadiz/Desktop/Iskol/Iskol_Project/iskol-web-api/Iskol.Adviser.Api/Iskol.Adviser.Api/Iskol.Adviser.Api.Application/obj/Debug/netstandard2.1/Iskol.Adviser.Api.Application.GeneratedMSBuildEditorConfig.editorconfig

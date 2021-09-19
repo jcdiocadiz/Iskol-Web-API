@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{3F26C634-0B8D-4407-8A9F-30593BD88628}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{B766633A-2BEA-45F2-A20F-FB079B0ACFF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iskol.Adviser.Api.WebApi", "Iskol.Adviser.Api\Iskol.Adviser.Api.WebApi\Iskol.Adviser.Api.WebApi.csproj", "{FB00DE18-E067-4F2A-9147-152FE700E50F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{F9F0EA17-6BF4-484A-B10E-F6FAFB3BA23B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iskol.Adviser.Api.Application", "Iskol.Adviser.Api\Iskol.Adviser.Api.Application\Iskol.Adviser.Api.Application.csproj", "{49F5C972-47DA-4A05-879D-89B1DD03B493}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iskol.Adviser.Api.Domain", "Iskol.Adviser.Api\Iskol.Adviser.Api.Domain\Iskol.Adviser.Api.Domain.csproj", "{42D8467C-C46F-4B2A-8F77-704928FB37B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{96DB7F04-FFB6-40A0-8A12-4DC2BD79AC24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iskol.Adviser.Api.Infrastructure.Identity", "Iskol.Adviser.Api\Iskol.Adviser.Api.Infrastructure.Identity\Iskol.Adviser.Api.Infrastructure.Identity.csproj", "{B18CC329-EED5-464C-94CD-70148CF2B279}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iskol.Adviser.Api.Infrastructure.Persistence", "Iskol.Adviser.Api\Iskol.Adviser.Api.Infrastructure.Persistence\Iskol.Adviser.Api.Infrastructure.Persistence.csproj", "{7034DD07-420B-4860-8DEC-E6B80A0E639F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iskol.Adviser.Api.Infrastructure.Shared", "Iskol.Adviser.Api\Iskol.Adviser.Api.Infrastructure.Shared\Iskol.Adviser.Api.Infrastructure.Shared.csproj", "{CD25B67B-097E-47B9-90CF-76E5CB315679}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{E47F3B89-D93D-42B9-A0A0-A59DCE17DE85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iskol.Adviser.API.UnitTests", "Iskol.Adviser.Api\UnitTest\Iskol.Adviser.API.UnitTests.csproj", "{DDE1D455-B8D8-48F6-9046-85EE8B0AC240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB00DE18-E067-4F2A-9147-152FE700E50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB00DE18-E067-4F2A-9147-152FE700E50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB00DE18-E067-4F2A-9147-152FE700E50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB00DE18-E067-4F2A-9147-152FE700E50F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F5C972-47DA-4A05-879D-89B1DD03B493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F5C972-47DA-4A05-879D-89B1DD03B493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F5C972-47DA-4A05-879D-89B1DD03B493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F5C972-47DA-4A05-879D-89B1DD03B493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D8467C-C46F-4B2A-8F77-704928FB37B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D8467C-C46F-4B2A-8F77-704928FB37B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D8467C-C46F-4B2A-8F77-704928FB37B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D8467C-C46F-4B2A-8F77-704928FB37B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18CC329-EED5-464C-94CD-70148CF2B279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18CC329-EED5-464C-94CD-70148CF2B279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18CC329-EED5-464C-94CD-70148CF2B279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18CC329-EED5-464C-94CD-70148CF2B279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7034DD07-420B-4860-8DEC-E6B80A0E639F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7034DD07-420B-4860-8DEC-E6B80A0E639F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7034DD07-420B-4860-8DEC-E6B80A0E639F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7034DD07-420B-4860-8DEC-E6B80A0E639F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD25B67B-097E-47B9-90CF-76E5CB315679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD25B67B-097E-47B9-90CF-76E5CB315679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD25B67B-097E-47B9-90CF-76E5CB315679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD25B67B-097E-47B9-90CF-76E5CB315679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE1D455-B8D8-48F6-9046-85EE8B0AC240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE1D455-B8D8-48F6-9046-85EE8B0AC240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE1D455-B8D8-48F6-9046-85EE8B0AC240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE1D455-B8D8-48F6-9046-85EE8B0AC240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B766633A-2BEA-45F2-A20F-FB079B0ACFF0} = {3F26C634-0B8D-4407-8A9F-30593BD88628}
+		{FB00DE18-E067-4F2A-9147-152FE700E50F} = {B766633A-2BEA-45F2-A20F-FB079B0ACFF0}
+		{F9F0EA17-6BF4-484A-B10E-F6FAFB3BA23B} = {3F26C634-0B8D-4407-8A9F-30593BD88628}
+		{49F5C972-47DA-4A05-879D-89B1DD03B493} = {F9F0EA17-6BF4-484A-B10E-F6FAFB3BA23B}
+		{42D8467C-C46F-4B2A-8F77-704928FB37B5} = {F9F0EA17-6BF4-484A-B10E-F6FAFB3BA23B}
+		{96DB7F04-FFB6-40A0-8A12-4DC2BD79AC24} = {3F26C634-0B8D-4407-8A9F-30593BD88628}
+		{B18CC329-EED5-464C-94CD-70148CF2B279} = {96DB7F04-FFB6-40A0-8A12-4DC2BD79AC24}
+		{7034DD07-420B-4860-8DEC-E6B80A0E639F} = {96DB7F04-FFB6-40A0-8A12-4DC2BD79AC24}
+		{CD25B67B-097E-47B9-90CF-76E5CB315679} = {96DB7F04-FFB6-40A0-8A12-4DC2BD79AC24}
+		{E47F3B89-D93D-42B9-A0A0-A59DCE17DE85} = {3F26C634-0B8D-4407-8A9F-30593BD88628}
+		{DDE1D455-B8D8-48F6-9046-85EE8B0AC240} = {E47F3B89-D93D-42B9-A0A0-A59DCE17DE85}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1C516B3-601F-489E-B1A9-07C2605C04F9}
+	EndGlobalSection
+EndGlobal
