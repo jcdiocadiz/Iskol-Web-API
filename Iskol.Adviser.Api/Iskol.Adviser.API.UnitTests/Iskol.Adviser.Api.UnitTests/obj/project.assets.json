@@ -234,7 +234,7 @@
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/3.1.7": {
+      "Microsoft.EntityFrameworkCore.Analyzers/5.0.10": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -3053,17 +3053,17 @@
         "microsoft.entityframeworkcore.abstractions.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/3.1.7": {
-      "sha512": "zSh3QF/Kz8fdVgyStQ1HYUGFDRqFbUR1UBpfa8tUuB0OutYab9R4aYdjkD8i9w9P5VZyHXqQNglh2cQHBFLtjg==",
+    "Microsoft.EntityFrameworkCore.Analyzers/5.0.10": {
+      "sha512": "MBnG+g6jrmK72y4rU+4y2btHrl72i2q3zrXG3pj2zZGXXrG9Q4SlwL5ul0ASmQXYjhJ4VpDfd4o1/gdRPsa2jA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.analyzers/3.1.7",
+      "path": "microsoft.entityframeworkcore.analyzers/5.0.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "lib/netstandard2.0/_._",
-        "microsoft.entityframeworkcore.analyzers.3.1.7.nupkg.sha512",
+        "microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
@@ -8609,6 +8609,7 @@
       "Iskol.Adviser.Api.Infrastructure.Persistence >= 1.1.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
+      "Microsoft.EntityFrameworkCore.Analyzers >= 5.0.10",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "Moq >= 4.16.1",
       "coverlet.collector >= 1.2.0"
@@ -8662,6 +8663,10 @@
           "MSTest.TestFramework": {
             "target": "Package",
             "version": "[2.1.0, )"
+          },
+          "Microsoft.EntityFrameworkCore.Analyzers": {
+            "target": "Package",
+            "version": "[5.0.10, )"
           },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",

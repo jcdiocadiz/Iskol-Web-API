@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UB5phManuPQtGdRu0Ml5P2SbU3JYwZGv1LB0bYt3b9r+QZ8rm+OkFm5yqrhEkpvCGB9idevBLHcDbkASRwOAOA==",
+  "dgSpecHash": "lrxuEb89vgPjuwJIYno44/iQH35ujn5MZE8UwE1F0IdgH3G/4LEFT8ihj+5qfdGETRXzXPLw/rhpxHPLKpSF7A==",
   "success": true,
   "projectFilePath": "/Users/johncarlodiocadiz/Desktop/Iskol/ISKOLFINAL/Iskol-Web-API/Iskol-Web-API/Iskol.Adviser.Api/Iskol.Adviser.API.UnitTests/Iskol.Adviser.Api.UnitTests/Iskol.Adviser.Api.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,7 @@
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.data.sqlclient/1.1.3/microsoft.data.sqlclient.1.1.3.nupkg.sha512",
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore/3.1.7/microsoft.entityframeworkcore.3.1.7.nupkg.sha512",
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.7/microsoft.entityframeworkcore.abstractions.3.1.7.nupkg.sha512",
-    "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.7/microsoft.entityframeworkcore.analyzers.3.1.7.nupkg.sha512",
+    "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.10/microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore.inmemory/3.1.7/microsoft.entityframeworkcore.inmemory.3.1.7.nupkg.sha512",
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore.relational/3.1.7/microsoft.entityframeworkcore.relational.3.1.7.nupkg.sha512",
     "/Users/johncarlodiocadiz/.nuget/packages/microsoft.entityframeworkcore.sqlserver/3.1.7/microsoft.entityframeworkcore.sqlserver.3.1.7.nupkg.sha512",
